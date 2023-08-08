@@ -1,0 +1,4 @@
+Eu encontrei um efeito da animação do botão de borda dupla para borda simples usando o hover, porém eu não tinha me inspirado nesse vídeo.
+O canal é Coding Yaar no You Tube.
+
+Eu comecei fazendo o projeto sozinha até não entender como eu colocaria o iframe para abrir as telas das contas quando o botão fosse clicado.
