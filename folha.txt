@@ -2,3 +2,7 @@ Eu encontrei um efeito da animação do botão de borda dupla para borda simples
 O canal é Coding Yaar no You Tube.
 
 Eu comecei fazendo o projeto sozinha até não entender como eu colocaria o iframe para abrir as telas das contas quando o botão fosse clicado.
+
+O professor disse sobre os botões terem a impressão de serem apertados eu fiz algo que acabou ficando parecido com essa ideia.
+
+Esse projeto é baseado no projeto do Curso em Vídeo das aulas de Html 5 e CSS3. Eu acompanho pelo You Tube.
